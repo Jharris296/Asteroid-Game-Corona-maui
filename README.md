@@ -1,0 +1,1 @@
+This Game app includes a LUA/Coronalabs/Maui file to open and test the game. I also converted this LUA game to an android app for convenience for those who arent familiar with LUA and prefer android Studio
